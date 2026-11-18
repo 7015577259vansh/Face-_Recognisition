@@ -2,3 +2,4 @@
 __pycache__/
 .DS_Store
 face_data/*.npy
+face_recognition_mac/face_data/*.npy
